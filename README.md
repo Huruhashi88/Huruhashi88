@@ -2,7 +2,7 @@
 - 👀 I’m interested in a lot of kinds of games
 - 🌱 I’m currently learning C++ and Unity
 - 💞️ I’m not looking to collaborate on anything
-- 📫 How to reach me ...
+- 📫 How to reach me anything
 - 😄 Pronouns: anything
 - ⚡ Fun fact: ...
 
