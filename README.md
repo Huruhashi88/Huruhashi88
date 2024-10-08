@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Huruhashi88
-- 👀 I’m interested in a lots of kind of games
+- 👀 I’m interested in a lots of kinds of games
 - 🌱 I’m currently learning C++ and Unity
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
