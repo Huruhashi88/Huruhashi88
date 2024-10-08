@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Huruhashi88
 - 👀 I’m interested in a lot of kinds of games
 - 🌱 I’m currently learning C++ and Unity
-- 💞️ I’m looking to collaborate on nothing
+- 💞️ I’m not looking to collaborate on anything
 - 📫 How to reach me ...
 - 😄 Pronouns: anything
 - ⚡ Fun fact: ...
