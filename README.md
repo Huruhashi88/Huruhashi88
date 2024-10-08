@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Huruhashi.Nice to meet you!!
+- 👋 Hi, I’m Huruhashi. Nice to meet you!!
 - 👀 I’m interested in a lot of kinds of games
 - 🌱 I’m currently learning C++ and Unity
 - 💞️ I’m not looking to collaborate on anything. I can not anything...
