@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Huruhashi. Nice to meet you!!
 - 👀 I’m interested in a lot of kinds of games
 - 🌱 I’m currently learning C++ and Unity
-- 💞️ I’m not looking to collaborate on anything. I can not anything...
+- 💞️ I’m not looking to collaborate on anything. Becouse I can not anything...
 - 📫 How to reach me
 - 😄 Pronouns: anything
 - ⚡ Fun fact: I enjoy play any kind of game!!
